@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif)
+![MasterHead](https://camo.githubusercontent.com/4bb6b11cd7edaa23cf5716dd45a228a72cdd5e4ec5429b950e94d2baa18bd72b/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313130302f312a2d6e744c33447376632d644a35634c475274537545772e676966)
 
 <h1 align="center">Hi 👋, I'm Dilum Dissanayake</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
